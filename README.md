@@ -46,10 +46,10 @@
 
 ### 📌 Featured Projects
 
-- 🏡  [**Opal Spaces**](https://opalspaces.vercel.app/) – Fullstack interior décor eCommerce site  
+- 🏡  <a href="https://opalspaces.vercel.app/" target="_blank"><b>Opal Spaces</b></a> – Fullstack interior décor eCommerce site  
   <sub><i>React + Tailwind + Framer Motion + Node.js + PostgreSQL + Prisma + JWT </i></sub>
 
-- 🏡 [**Urban Haven**](https://urbanhaven.vercel.app/) – Static interior décor site with animations  
+- 🏡 <a href="https://urbanhaven.vercel.com" target="_blank"><b>Urban Haven</b></a> – Static interior décor site with animations  
   <sub><i>React + Tailwind + Framer Motion</i></sub>
 
 - 🔐 **RFID Door Lock System** – IoT project with real-time notifications  
