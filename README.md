@@ -49,7 +49,7 @@
 - 🏡  <a href="https://opalspaces.vercel.app/" target="_blank"><b>Opal Spaces</b></a> – Fullstack interior décor eCommerce site  
   <sub><i>React + Tailwind + Framer Motion + Node.js + PostgreSQL + Prisma + JWT </i></sub>
 
-- 🏡  <a href="https://form-fit.vercel.app/" target="_blank"><b>Form fit</b></a> – Gym website built with NextJs
+- 🏡  <a href="https://form-fit.vercel.app/" target="_blank"><b>Form fit</b></a> – Gym website built with NextJs <br/>
   <sub><i>React + Tailwind + Typescript + NextJS </i></sub>
 
 - 🏡 <a href="https://urbanhavensite.vercel.app" target="_blank"><b>Urban Haven</b></a> – Static interior décor site with animations  
