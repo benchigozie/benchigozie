@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hey, I'm Ben</h1>
 <p align="center">
-  <b>Fullstack Web Developer | Problem Solver </b>
+  <b>Fullstack Web Developer</b>
 </p>
 
 ---
