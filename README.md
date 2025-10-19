@@ -23,7 +23,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br/>React</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /><br/>Next.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vite" /><br/>Vite</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express" /><br/>Express</td>
@@ -38,7 +38,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br/>GitHub</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" /><br/>Postman</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=arduino" /><br/>Arduino</td>
-    <td align="center">⚡ <br/>And More...</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind CSS</td>
   </tr>
 </table>
 
